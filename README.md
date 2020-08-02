@@ -1,13 +1,15 @@
 ### Hi there 👋
-#### I'm Thameem, a passionate IoT developer and programmer.
+I'm Thameem, a passionate IoT developer and programmer.
 
-#### I'm' pursuing my undergraduation in Electronics and communication engineering at TKM College of Engineering.
+I'm' pursuing my undergraduation in Electronics and communication engineering at TKM College of Engineering.
 
-#### Apart from working in various modern platforms, I'm passionate about learning the cutting edge technologies in the field of IoT, Embedded Systems, Web Development, etc.
+Apart from working in various modern platforms, I'm passionate about learning the cutting edge technologies in the field of IoT, Embedded Systems, Web Development, etc.
 
-#### I have been a Microsoft student partner since August 2019 and currently a beta student partner after my successful completion of Alpha 1 and Alpha 2 levels.
+I have been a Microsoft student partner since August 2019 and currently a beta student partner after my successful completion of Alpha 1 and Alpha 2 levels.
 
-#### Readmore on my portfolio... -> https://thameem.me ✨✨
+Readmore by visiting: ✨✨
+- Website : https://www.thameem.me
+- LinkedIn : https://www.linkedin.com/in/thameem-karakkoth/
 <!--
 **thameemk612/thameemk612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
