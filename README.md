@@ -5,7 +5,7 @@ I'm' pursuing my undergraduation in Electronics and communication engineering at
 
 Apart from working in various modern platforms, I'm passionate about learning the cutting edge technologies in the field of IoT, Embedded Systems, Web Development, etc.
 
-I have been a Microsoft student partner since August 2019 and currently a beta student partner after my successful completion of Alpha 1 and Alpha 2 levels. Adding to it I have been selected as the Chief Executive Officer of Innovation and entrepreneurship development cell, TKM college of engineering, Kollam for the academic year 2020-202.
+I have been a Microsoft student partner since August 2019 and currently a beta student partner after my successful completion of Alpha 1 and Alpha 2 levels. Adding to it I have been selected as the Chief Executive Officer of Innovation and entrepreneurship development cell, TKM college of engineering, Kollam for the academic year 2020-2021.
 
 Readmore by visiting: ✨✨
 - Website : https://www.thameem.me
