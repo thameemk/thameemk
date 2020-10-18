@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Thameem, a passionate IoT developer and programmer.
+I'm Thameem, a passionate developer and programmer.
 
 I'm' pursuing my undergraduation in Electronics and communication engineering at TKM College of Engineering.
 
